@@ -116,6 +116,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  
 - [Amina Salifu](https://www.linkedin.com/in/amina-salifu-7476311a3/) - NLP Researcher
 - [Adwoa Asantewaa Bremang](https://www.linkedin.com/in/asantewaabremang/) - AI/NLP
+- [Asumadu Asamoah Godfred](https://www.linkedin.com/in/godfred-asumadu-asamoah-1ba453107/) - Data Science | Financial Analytics
 - [Alex Nyarko](https://www.linkedin.com/in/alex-nyarko-mba-bsc-60b482203/) - Data Engineer
 - [Annie Boadu](https://gh.linkedin.com/in/annieasabeaboadu) - Data Engineer
 - [Aseda Addai-Deseh](https://gh.linkedin.com/in/aseda-addai-deseh) - Data Scientist
@@ -263,6 +264,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
 <details open>
  <summary><h2>Software Engineering</h2></summary>
 
+- [Asumadu Asamoah Godfred](https://www.linkedin.com/in/godfred-asumadu-asamoah-1ba453107/) - Software Engineering
 - [Bernard Odartei Lamptey](https://www.linkedin.com/in/bernard-lamptey/) - Software Engineer
 - [Bright Etornam Sunu](https://www.linkedin.com/in/etornam-sunu/) - Software Engineer
 - [Emmanuel Yaw Manu Annor](https://www.linkedin.com/in/yaw-annor/) - Software Engineer
@@ -305,6 +307,7 @@ If you are interested in contributing, kindly read the [contribution guideline](
  <summary><h2>Web Development</h2></summary>
  
  - [Jeffrey Mintah](https://www.linkedin.com/in/jeffrey-m-a846a2229) - Web Developer (Django, ReactJs)
+ - [Asumadu Asamoah Godfred](https://beetle-tech.vercel.app/) - Data Science | Financial Analytics
  - [Nafiu Lawal](https://www.linkedin.com/in/nafiudanlawal/) - Web Developer (ReactJS, PHP, NodeJS, Java)
  - [Richard Djarbeng](https://www.linkedin.com/in/richarddjarbeng/) - Web Developer (ReactJS, PHP, NodeJS)
  - [Sosu Alfred](https://www.linkedin.com/in/sosu-alfred) - Fullstack Developer(ReactJs, Laravel)
